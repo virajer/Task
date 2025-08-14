@@ -6,6 +6,9 @@ A responsive landing page for a fictional paint brand "ColorCrest Paints" showca
 - CSS3
 - Bootstrap 5
 - Optional JavaScript
+  
+# Live Demo
+[Click here to view live](https://virajer.github.io/Task/)
 
 # Features
 - Fully responsive design
